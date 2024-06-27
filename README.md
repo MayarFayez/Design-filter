@@ -1,4 +1,4 @@
-# Design-filter
+# Digital Filter Designer
 Digital Filter Designer web application provides users with full functionality to design filters using drag and drop for zeros/poles, and filter phase correction.
 ### Features
 1.Put unlimited zeros and poles with real time filter response.  
